@@ -1,8 +1,9 @@
 
-## part1
+## weekplans
 
-- [Week 1](part1/week1.md)
-- [Week 2](part1/week2.md)
-- [Week 3](part1/week3.md)
-- [Week 4](part1/week4.md)
-- [Week 7](part1/week7.md)
+- [Week 10](weekplans/week10.md)
+- [Week 2](weekplans/week2.md)
+- [Week 3](weekplans/week3.md)
+- [Week 4](weekplans/week4.md)
+- [Week 7](weekplans/week7.md)
+- [Week 8](weekplans/week8.md)
