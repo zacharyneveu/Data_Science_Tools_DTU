@@ -1,4 +1,10 @@
-# 02807 Computational Tools for Data Science
-This is the main repository for ressources used in the course Computational Tools for Data Science taught at the [Technical University of Denmark](http://www.dtu.dk/).
+# Data Science Tools (Code Repo)
 
-For more info, see the [course homepage](http://www2.compute.dtu.dk/courses/02807/2019/).
+This repo has all my code from exercises at DTU for the data science tools course.
+
+![spark](http://www.techcentral.ie/wp-content/uploads/2015/06/Apache_Spark_logo_web.jpg)
+![python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/256px-Python.svg.png)
+![sql](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.safe.com%2Flogos%2Fformats%2Fsqldatabase-logo.png&f=1)
+![pandas](https://www.pinclipart.com/picdir/middle/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png)
+![numpy](https://static.javatpoint.com/tutorial/numpy/images/numpy-tutorial.png)
+![linux](https://i.dlpng.com/static/png/3982846_preview.png)

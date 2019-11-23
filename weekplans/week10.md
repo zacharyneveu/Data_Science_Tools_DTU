@@ -70,3 +70,5 @@ The function `approxQuantiles()` actually uses a sketch to approximate the media
 
 - Use Spark to compute the average spending per customer
 - **(*)** Use Spark to compute the exact median of the spendings per customer. Make sure you have a strategy for how you want to this before you start coding.
+
+- $$f(x) = 3x^2 + 2 \alpha + 2 \xi$$

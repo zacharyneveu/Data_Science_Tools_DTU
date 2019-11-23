@@ -1,6 +1,7 @@
 {
   "plugins": [
     "summary",
-    "advanced-emoji"
+    "advanced-emoji",
+	"mathjax"
   ]
 }
